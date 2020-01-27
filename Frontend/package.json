@@ -1,0 +1,13 @@
+{
+  "name": "os_knowledge_and_project_management",
+  "version": "0.1.0",
+  "description": "Frontend of the OS Knowledge and project management project",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "SE Project 19 Team",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
