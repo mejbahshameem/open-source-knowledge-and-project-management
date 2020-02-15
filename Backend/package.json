@@ -42,6 +42,6 @@
     "sprintf-js": "^1.1.2",
     "supertest": "^4.0.2",
     "validator": "^12.1.0",
-    "yarn": "^1.21.1"
+    "yarn": "^1.22.0"
   }
 }
