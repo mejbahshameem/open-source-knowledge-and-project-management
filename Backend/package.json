@@ -33,7 +33,7 @@
     "jest": "^24.9.0",
     "jsonwebtoken": "^8.5.1",
     "micromatch": "^4.0.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongoose": "^5.7.12",
     "multer": "^1.4.2",
     "ngrok": "^3.2.5",
